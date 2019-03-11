@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 asa dalmlad
 as dlad
 asdada
 return row 90 le thi rieng
-=======
->>>>>>> parent of 532d8d3... sua file lan 1
